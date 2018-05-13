@@ -1,0 +1,1 @@
+{"name":"info.awashanalytics.agify","version":"1.0.0","displayName":"Agify","cordova":{"platforms":["android"]},"dependencies":{"cordova-android":"~7.0.0"}}
